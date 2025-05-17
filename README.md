@@ -14,6 +14,7 @@ https://www.youtube.com/watch?v=6bzzpda63H0
 create gooogle sheet with name DataGGsheet1!A1
 
 when run code
+take ID google sheet create before
 choose file path
 choose the json file already download (tutorial link)
 
