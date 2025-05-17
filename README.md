@@ -4,9 +4,13 @@ Automatically sends excel files to google sheet.
 How to use
 
 install requirement.txt
+
 step 1:
+
 cd path/to/your/project
+
 step 2:
+
 pip install -r requirements.txt
 
 create project on google cloud platform
